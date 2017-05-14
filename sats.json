@@ -1,0 +1,306 @@
+{
+    "root": {
+        "diameter": 1391400,
+        "satellites": {
+            "mercury": {
+                "diameter": 4879,
+                "satellites": {}
+            },
+            "venus": {
+                "diameter": 12104,
+                "satellites": {}
+            },
+            "earth": {
+                "diameter": 12756,
+                "satellites": {
+                    "moon": {
+                        "diameter": 3475,
+                        "satellites": {}
+                    }
+                }
+            },
+            "mars": {
+                "diameter": 6792,
+                "satellites": {
+                    "deimos": {
+                        "diameter": 22.2,
+                        "satellites": {}
+                    },
+                    "ike": {
+                        "diameter": 12.4,
+                        "satellites": {}
+                    }
+                }
+            },
+            "jupiter": {
+                "diameter": 142984,
+                "satellites": {
+                    "metis": {
+                        "diameter": 40,
+                        "satellites": {}
+                    },
+                    "adrastea": {
+                        "diameter": 16,
+                        "satellites": {}
+                    },
+                    "amalthea": {
+                        "diameter": 98,
+                        "satellites": {}
+                    },
+                    "io": {
+                        "diameter": 3660,
+                        "satellites": {}
+                    },
+                    "europa": {
+                        "diameter": 3121.6,
+                        "satellites": {}
+                    },
+                    "ganymede": {
+                        "diameter": 5262,
+                        "satellites": {}
+                    },
+                    "callisto": {
+                        "diameter": 4820.6,
+                        "satellites": {}
+                    },
+                    "leda": {
+                        "diameter": 16,
+                        "satellites": {}
+                    },
+                    "himalia": {
+                        "diameter": 170,
+                        "satellites": {}
+                    },
+                    "lysithea": {
+                        "diameter": 36,
+                        "satellites": {}
+                    },
+                    "elara": {
+                        "diameter": 86,
+                        "satellites": {}
+                    },
+                    "ananka": {
+                        "diameter": 28,
+                        "satellites": {}
+                    },
+                    "pasiphae": {
+                        "diameter": 60,
+                        "satellites": {}
+                    },
+                    "sinope": {
+                        "diameter": 38,
+                        "satellites": {}
+                    }
+                }
+            },
+            "saturn": {
+                "diameter": 120536,
+                "satellites": {
+                    "mimas": {
+                        "diameter": 396,
+                        "satellites": {}
+                    },
+                    "enceladus": {
+                        "diameter": 504,
+                        "satellites": {}
+                    },
+                    "tethys": {
+                        "diameter": 1062,
+                        "satellites": {}
+                    },
+                    "dione": {
+                        "diameter": 1123,
+                        "satellites": {}
+                    },
+                    "rhea": {
+                        "diameter": 1527,
+                        "satellites": {}
+                    },
+                    "titan": {
+                        "diameter": 5150,
+                        "satellites": {}
+                    },
+                    "lapetus": {
+                        "diameter": 1470,
+                        "satellites": {}
+                    }
+                }
+            },
+            "uranus": {
+                "diameter": 51118,
+                "satellites": {
+                    "cordelia": {
+                        "diameter": 40,
+                        "satellites": {}
+                    },
+                    "ophelia": {
+                        "diameter": 45,
+                        "satellites": {}
+                    },
+                    "bianca": {
+                        "diameter": 50,
+                        "satellites": {}
+                    },
+                    "cressida": {
+                        "diameter": 80,
+                        "satellites": {}
+                    },
+                    "desdemona": {
+                        "diameter": 64,
+                        "satellites": {}
+                    },
+                    "juliet": {
+                        "diameter": 100,
+                        "satellites": {}
+                    },
+                    "portia": {
+                        "diameter": 110,
+                        "satellites": {}
+                    },
+                    "belinda": {
+                        "diameter": 100,
+                        "satellites": {}
+                    },
+                    "miranda": {
+                        "diameter": 468,
+                        "satellites": {}
+                    },
+                    "ariel": {
+                        "diameter": 1156,
+                        "satellites": {}
+                    },
+                    "umbriel": {
+                        "diameter": 1169,
+                        "satellites": {}
+                    },
+                    "titania": {
+                        "diameter": 1576,
+                        "satellites": {}
+                    },
+                    "oberon": {
+                        "diameter": 1522.8,
+                        "satellites": {}
+                    },
+                    "fransisco": {
+                        "diameter": 22,
+                        "satellites": {}
+                    },
+                    "caliban": {
+                        "diameter": 72,
+                        "satellites": {}
+                    },
+                    "stephano": {
+                        "diameter": 32,
+                        "satellites": {}
+                    },
+                    "trinculo": {
+                        "diameter": 18,
+                        "satellites": {}
+                    },
+                    "sycorax": {
+                        "diameter": 165,
+                        "satellites": {}
+                    },
+                    "margaret": {
+                        "diameter": 20,
+                        "satellites": {}
+                    },
+                    "prospero": {
+                        "diameter": 50,
+                        "satellites": {}
+                    },
+                    "setebos": {
+                        "diameter": 48,
+                        "satellites": {}
+                    },
+                    "ferdinand": {
+                        "diameter": 20,
+                        "satellites": {}
+                    }
+                }
+            },
+            "neptune": {
+                "diameter": 49528,
+                "satellites": {
+                    "naiad": {
+                        "diameter": 60,
+                        "satellites": {}
+                    },
+                    "thalassa": {
+                        "diameter": 82,
+                        "satellites": {}
+                    },
+                    "despina": {
+                        "diameter": 150,
+                        "satellites": {}
+                    },
+                    "galatea": {
+                        "diameter": 176,
+                        "satellites": {}
+                    },
+                    "larissa": {
+                        "diameter": 194,
+                        "satellites": {}
+                    },
+                    "S/2004 N 1": {
+                        "diameter": 18,
+                        "satellites": {}
+                    },
+                    "proteus": {
+                        "diameter": 420,
+                        "satellites": {}
+                    },
+                    "triton": {
+                        "diameter": 2706,
+                        "satellites": {}
+                    },
+                    "nereid": {
+                        "diameter": 340,
+                        "satellites": {}
+                    },
+                    "halimede": {
+                        "diameter": 62,
+                        "satellites": {}
+                    },
+                    "sao": {
+                        "diameter": 44,
+                        "satellites": {}
+                    },
+                    "laomedeia": {
+                        "diameter": 42,
+                        "satellites": {}
+                    },
+                    "psamathe": {
+                        "diameter": 40,
+                        "satellites": {}
+                    },
+                    "neso": {
+                        "diameter": 60,
+                        "satellites": {}
+                    }
+                }
+            },
+            "pluto": {
+                "diameter": 2370,
+                "satellites": {
+                    "charon": {
+                        "diameter": 1208,
+                        "satellites": {}
+                    },
+                    "nix": {
+                        "diameter": 35,
+                        "satellites": {}
+                    },
+                    "kerberos": {
+                        "diameter": 10,
+                        "satellites": {}
+                    },
+                    "hydra": {
+                        "diameter": 45,
+                        "satellites": {}
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "root": {
+        "diameter": 100,
+        "color": "#FF0000",
+        "satellites": {
+            "earth": {
+                "diameter": 50,
+                "distance": 300,
+                "color": "#0000FF",
+                "reverse" : true,
+                "satellites": {
+                    "moon": {
+                        "diameter": 10,
+                        "color": "#00FF00",
+                        "distance": 100
+                    }
+                }
+            }
+        }
+    }
+}
